@@ -1,5 +1,5 @@
 # NextTechFall22
 This is where our team will collaborate
 collaborators
-1. mohammad hussain
+1. mohammad husssain
 
